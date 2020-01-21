@@ -1,0 +1,111 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/71525fe/
+.App	src/pages/MainPage/MainPage.css	/^.App {$/;"	c
+.App-header	src/pages/MainPage/MainPage.css	/^.App-header {$/;"	c
+.App-link	src/pages/MainPage/MainPage.css	/^.App-link {$/;"	c
+.App-logo	src/pages/MainPage/MainPage.css	/^  .App-logo {$/;"	c
+.App-logo	src/pages/MainPage/MainPage.css	/^.App-logo {$/;"	c
+0	package.json	/^      ">0.2%",$/;"	s	array:browserslist.production
+0	package.json	/^      "last 1 chrome version",$/;"	s	array:browserslist.development
+0	public/manifest.json	/^    {$/;"	o	array:icons
+1	package.json	/^      "last 1 firefox version",$/;"	s	array:browserslist.development
+1	package.json	/^      "not dead",$/;"	s	array:browserslist.production
+1	public/manifest.json	/^    {$/;"	o	array:icons
+2	package.json	/^      "last 1 safari version"$/;"	s	array:browserslist.development
+2	package.json	/^      "not op_mini all"$/;"	s	array:browserslist.production
+2	public/manifest.json	/^    {$/;"	o	array:icons
+@material-ui/core	package.json	/^    "@material-ui\/core": "^4.8.3",$/;"	s	object:dependencies
+@material-ui/icons	package.json	/^    "@material-ui\/icons": "^4.5.1",$/;"	s	object:dependencies
+@reduxjs/toolkit	package.json	/^    "@reduxjs\/toolkit": "^1.2.3",$/;"	s	object:dependencies
+@testing-library/jest-dom	package.json	/^    "@testing-library\/jest-dom": "^4.2.4",$/;"	s	object:dependencies
+@testing-library/react	package.json	/^    "@testing-library\/react": "^9.3.2",$/;"	s	object:dependencies
+@testing-library/user-event	package.json	/^    "@testing-library\/user-event": "^7.1.2",$/;"	s	object:dependencies
+AddTodo	src/pages/MainPage/components/TodoList/AddTodo.js	/^const AddTodo = ({ addTodo }) => {$/;"	C
+Advanced Configuration	README.md	/^### Advanced Configuration$/;"	S
+Analyzing the Bundle Size	README.md	/^### Analyzing the Bundle Size$/;"	S
+App	src/pages/App.js	/^function App() {$/;"	f
+Available Scripts	README.md	/^## Available Scripts$/;"	s
+Code Splitting	README.md	/^### Code Splitting$/;"	S
+Deployment	README.md	/^### Deployment$/;"	S
+Learn More	README.md	/^## Learn More$/;"	s
+MainPage	src/pages/MainPage/MainPage.js	/^function MainPage() {$/;"	f
+Making a Progressive Web App	README.md	/^### Making a Progressive Web App$/;"	S
+Nav	src/pages/common/Nav.js	/^const Nav = ({ todos }) => ($/;"	C
+Todo	src/pages/MainPage/components/TodoList/Todo.js	/^const Todo = ({ text, id, completed, toggleTodo }) => {$/;"	C
+TodoList	src/pages/MainPage/components/TodoList/TodoList.js	/^const TodoList = ({ todos }) => ($/;"	C
+`yarn build`	README.md	/^### `yarn build`$/;"	S
+`yarn build` fails to minify	README.md	/^### `yarn build` fails to minify$/;"	S
+`yarn eject`	README.md	/^### `yarn eject`$/;"	S
+`yarn start`	README.md	/^### `yarn start`$/;"	S
+`yarn test`	README.md	/^### `yarn test`$/;"	S
+background_color	public/manifest.json	/^  "background_color": "#ffffff"$/;"	s
+body	src/index.css	/^body {$/;"	s
+browserslist	package.json	/^  "browserslist": {$/;"	o
+build	package.json	/^    "build": "react-scripts build",$/;"	s	object:scripts
+checkValidServiceWorker	src/serviceWorker.js	/^function checkValidServiceWorker(swUrl, config) {$/;"	f
+classes	src/pages/MainPage/components/TodoList/AddTodo.js	/^  const classes = useStyles();$/;"	C
+classes	src/pages/MainPage/components/TodoList/Todo.js	/^  const classes = useStyles({ completed });$/;"	C
+code	src/index.css	/^code {$/;"	s
+completed	src/pages/MainPage/components/TodoList/Todo.js	/^  completed: PropTypes.bool$/;"	p	class:propTypes
+dependencies	package.json	/^  "dependencies": {$/;"	o
+development	package.json	/^    "development": [$/;"	a	object:browserslist
+display	public/manifest.json	/^  "display": "standalone",$/;"	s
+eject	package.json	/^    "eject": "react-scripts eject"$/;"	s	object:scripts
+eslintConfig	package.json	/^  "eslintConfig": {$/;"	o
+extends	package.json	/^    "extends": "react-app"$/;"	s	object:eslintConfig
+icons	public/manifest.json	/^  "icons": [$/;"	a
+id	src/pages/MainPage/components/TodoList/Todo.js	/^  id: PropTypes.number,$/;"	p	class:propTypes
+isLocalhost	src/serviceWorker.js	/^const isLocalhost = Boolean($/;"	C
+mapDispatchToProps	src/pages/MainPage/components/TodoList/AddTodo.js	/^const mapDispatchToProps = { addTodo };$/;"	C
+mapDispatchToProps	src/pages/MainPage/components/TodoList/Todo.js	/^const mapDispatchToProps = { toggleTodo };$/;"	C
+mapStateToProps	src/pages/MainPage/components/TodoList/TodoList.js	/^const mapStateToProps = ({ todos }) => ({ todos });$/;"	C
+mapStateToProps	src/pages/common/Nav.js	/^const mapStateToProps = ({ todos }) => ({ todos });$/;"	C
+name	package.json	/^  "name": "redux-ducks",$/;"	s
+name	public/manifest.json	/^  "name": "Create React App Sample",$/;"	s
+nextTodoId	src/pages/MainPage/components/TodoList/todoSlice.js	/^let nextTodoId = 0;$/;"	v
+onChange	src/pages/MainPage/components/TodoList/AddTodo.js	/^  const onChange = e => {$/;"	C
+onSubmit	src/pages/MainPage/components/TodoList/AddTodo.js	/^  const onSubmit = e => {$/;"	C
+private	package.json	/^  "private": true,$/;"	b
+production	package.json	/^    "production": [$/;"	a	object:browserslist
+propTypes	src/pages/MainPage/components/TodoList/Todo.js	/^const propTypes = {$/;"	c
+propTypes	src/pages/MainPage/components/TodoList/TodoList.js	/^const propTypes = {$/;"	c
+propTypes	src/pages/common/Nav.js	/^const propTypes = {$/;"	c
+react	package.json	/^    "react": "^16.12.0",$/;"	s	object:dependencies
+react-dom	package.json	/^    "react-dom": "^16.12.0",$/;"	s	object:dependencies
+react-redux	package.json	/^    "react-redux": "^7.1.3",$/;"	s	object:dependencies
+react-router-dom	package.json	/^    "react-router-dom": "^5.1.2",$/;"	s	object:dependencies
+react-scripts	package.json	/^    "react-scripts": "3.3.0"$/;"	s	object:dependencies
+register	src/serviceWorker.js	/^export function register(config) {$/;"	f
+registerValidSW	src/serviceWorker.js	/^function registerValidSW(swUrl, config) {$/;"	f
+root	public/index.html	/^    <div id="root"><\/div>$/;"	I
+scripts	package.json	/^  "scripts": {$/;"	o
+setTodo	src/pages/MainPage/components/TodoList/AddTodo.js	/^  const [todo, setTodo] = useState("");$/;"	C
+short_name	public/manifest.json	/^  "short_name": "React App",$/;"	s
+sizes	public/manifest.json	/^      "sizes": "192x192"$/;"	s	object:icons.1
+sizes	public/manifest.json	/^      "sizes": "512x512"$/;"	s	object:icons.2
+sizes	public/manifest.json	/^      "sizes": "64x64 32x32 24x24 16x16",$/;"	s	object:icons.0
+src	public/manifest.json	/^      "src": "favicon.ico",$/;"	s	object:icons.0
+src	public/manifest.json	/^      "src": "logo192.png",$/;"	s	object:icons.1
+src	public/manifest.json	/^      "src": "logo512.png",$/;"	s	object:icons.2
+start	package.json	/^    "start": "react-scripts start",$/;"	s	object:scripts
+start_url	public/manifest.json	/^  "start_url": ".",$/;"	s
+store	src/index.js	/^const store = configureStore({$/;"	C
+test	package.json	/^    "test": "react-scripts test",$/;"	s	object:scripts
+text	src/pages/MainPage/components/TodoList/Todo.js	/^  text: PropTypes.string,$/;"	p	class:propTypes
+theme_color	public/manifest.json	/^  "theme_color": "#000000",$/;"	s
+todos	src/pages/MainPage/components/TodoList/TodoList.js	/^  todos: PropTypes.arrayOf($/;"	p	class:propTypes
+todos	src/pages/common/Nav.js	/^  todos: PropTypes.arrayOf($/;"	p	class:propTypes
+todosSlice	src/pages/MainPage/components/TodoList/todoSlice.js	/^const todosSlice = createSlice({$/;"	C
+type	public/manifest.json	/^      "type": "image\/png",$/;"	s	object:icons.1
+type	public/manifest.json	/^      "type": "image\/png",$/;"	s	object:icons.2
+type	public/manifest.json	/^      "type": "image\/x-icon"$/;"	s	object:icons.0
+unregister	src/serviceWorker.js	/^export function unregister() {$/;"	f
+useStyles	src/pages/MainPage/MainPage.js	/^const useStyles = makeStyles(() => ({$/;"	C
+useStyles	src/pages/MainPage/components/TodoList/AddTodo.js	/^const useStyles = makeStyles(() => ({$/;"	C
+useStyles	src/pages/MainPage/components/TodoList/Todo.js	/^const useStyles = makeStyles({$/;"	C
+version	package.json	/^  "version": "0.1.0",$/;"	s
